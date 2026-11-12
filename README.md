@@ -2,6 +2,8 @@
 
 UMS community amenities reporting and prioritisation app for roads, streetlights, drainage and water supply, built with [Google AppSheet](https://about.appsheet.com/).
 
+**[Open the app](https://www.appsheet.com/start/daef3935-9652-4e4e-be39-eaa13675e06b)** · [Full app definition](docs/app-definition.md)
+
 Students and drivers report a problem with a photo. The app records the time and GPS location, AI fills in the damage type, severity and a short description, and every open report gets a **Priority Score** so the most urgent issues rise to the top.
 
 > This is a no-code AppSheet app. AppSheet does not export apps as source code, so this repository holds the app's documented definition (tables, columns, formulas, slices and views) rather than runnable code. The live app and its data live in AppSheet and Google Sheets.
